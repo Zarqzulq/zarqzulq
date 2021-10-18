@@ -1,293 +1,346 @@
-#EXTM3U #EXTINF:-1 tvg-
-logo="https://pbs.twimg.com/profile_images/1305224794/mr_cabuk_400x400.jpg", TV FREE
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440"
 
-#EXTINF:-1 tvg-logo="http://dkkmaju.com/iptv/images/aqil.png" ,AQiL 2015 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+#http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-
-logo="http://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg" group-title="TVMALAYSIA",RTM TV1
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 
-#EXTINF:-1 tvg-
-logo="http://upload.wikimedia.org/wikipedia/en/8/85/Radio_Television_Malaysia.jpg" group-title="TVMALAYSIA",RTM TV2
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://dev.mediaprima.com.my/wp- content/uploads/2014/05/tv31.png" group-title="TVMALAYSIA",TV3 MALAYSIA http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO",ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="ntv7.png" tvg-logo="http://dev.mediaprima.com.my/wp- content/uploads/2014/05/ntv7.png" group-title="TVMALAYSIA",NTV7 MALAYSIA http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
-
-#EXTINF:-1 tvg-logo="8tv.png" tvg-logo="http://dev.mediaprima.com.my/wp- content/uploads/2014/05/8tv.png" group-title="TVMALAYSIA",8TV MALAYSIA http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
-
-#EXTINF:-1 tvg-logo="tv9.png" tvg-logo="http://dev.mediaprima.com.my/wp- content/uploads/2014/05/tv9.png" group-title="TVMALAYSIA",TV9 MALAYSIA http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
-
-#EXTINF:-1 tvg-id=“TV10” group-title="TVMALAYSIA",TV10 Malaysia http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="alhijrah.png" tvg- logo="http://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.s vg/919px-Logo_of_the_TV_Alhijrah.svg.png" group-title="TVMALAYSIA",AL HIJRAH http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://awards.kakiseni.com/wp- content/uploads/2012/04/BERNAMA.png" group-title="TVMALAYSIA",BERNAMA TV http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats- on/logoimages/ChannelLogo/Pos/106_300.png" group-title="ASTRO",ASTRO OASIS http://bit.ly/astro-OASIS
-
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats- on/logoimages/ChannelLogo/Pos/801_300.png" group-title="ASTRO",ASTRO ARENA http://bit.ly/astro-ARENA
-
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats- on/logoimages/ChannelLogo/Pos/105_300.png" group-title="ASTRO",ASTRO PRIMA http://bit.ly/astro-PRIMA
-
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-
- 
-on/logoimages/ChannelLogo/Pos/132_300.png" group-title="ASTRO",ASTRO WARNA http://bit.ly/astro-WARNA
-
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats- on/logoimages/ChannelLogo/Pos/104_300.png" group-title="ASTRO",ASTRO Ria http://bit.ly/astro-RIA
-
-#EXTINF:0 tvg-logo="http://prominentpr.com/wp-content/uploads/2013/01/astro- ceria.jpg" group-title="ASTRO",ASTRO Ceria http://www.layarku.tv/media/ceria.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.parlimen.gov.my/images/webuser/pac/logo/PM.jpg" group-title="TVMALAYSIA",PARLIMEN TV - RTM
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch009.stream_360p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/- e40PY2G5_qo/UHp9VhfUHxI/AAAAAAAAHoY/NNY6wGvc6yk/s200-c/muzik+aktif.jpg" group- title="TVMALAYSIA",MUZIK AKTIF - RTM
-http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="itv.png" group-title="TVMALAYSIA",TVi - RTM http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/chunklist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",INDONESIA TRANS7
-http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
-
-#EXTINF:-0,astro SuperSport 1 & 3 http://stream.ssh101.com/hls/23456.m3u8
-?
-#EXTINF:-0,astro SuperSport 2 http://stream.ssh101.com/hls/103654.m3u8
-
-#EXTINF:-1 group-title="SPORTS", Sky F1 http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 1 http://167.114.41.220:8080/sPPORTSONE/ONE/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 2 http://167.114.41.220:8080/Spooorts/TWO/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 3 http://167.114.41.220:8080/SPORTS/THEREE/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 4 http://167.114.41.220:8080/SPORTSS/Four/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS",sky SPORTS 5 http://167.114.41.220:8080/SPORTSs/FIve/index.m3u8
-
-#EXTINF:0 group-title="SPORTS",ESPN http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
-
-#EXTINF:0 group-title="SPORTS",Fox SPORTS http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Fox Sports ar http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
- 
-#EXTINF:-1 group-title="SPORTS",British Eurosport http://93.184.221.133/00573D/1210/1210-0.m3u8
-
-#EXTINF:-1 group-title="SPORTS",British Eurosport 2 http://93.184.221.133/00573D/1211/1211-0.m3u8
-
-#EXTINF:-1 group-title="SPORTS",TSN 1 720 HD
-http://ams-lp5.9c9media.com/hls- live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
-
-#EXTINF:-1 group-title="SPORTS",TSN 2 720 HD
-http://ams-lp7.9c9media.com/hls- live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
-
-#EXTINF:-1 group-title="SPORTS",TSN 3 720 HD
-http://ams-lp1.9c9media.com/hls- live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
-
-#EXTINF:-1 group-title="SPORTS",TSN 4 720 HD
-http://ams-lp2.9c9media.com/hls- live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
-
-#EXTINF:-1 group-title="SPORTS",TSN 5 720 HD
-http://ams-lp3.9c9media.com/hls- live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
-
-#EXTINF:-1 tvg-logo="axn.png" group-title="MOVIE CHANNEL",AXN HD http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
-
-#EXTINF:-1 tvg-logo="cinemax.png" group-title="MOVIE CHANNEL",cinemax http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
-
-#EXTINF:-1 tvg-
-logo="http://img4.wikia.nocookie.net/ cb20141024033509/logopedia/images/6/69/FOX_a ction.png" group-title="MOVIE CHANNEL",Fox Action http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
-
-#EXTINF:0 group-title="MOVIE CHANNEL", HBO Movies http://cdn.ebound.tv:1935/tv/hbo/playlist.m3u8
-
-#EXTINF:0 group-title="MOVIE CHANNEL", English Movies http://streamer27.eboundservices.com:1935/tv/starmovies/playlist.m3u8
-
-#EXTINF:0 group-title="MOVIE CHANNEL", Star Movies http://pitelevision.com:1935/pitelevision/starmovies3/playlist.m3u8
-
-
-#EXTINF:-1 group-title="MOVIE CHANNEL", Paramount Channel http://188.227.86.4:4022/udp/239.77.0.75:1234
-
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp- content/uploads/2014/09/OSN-Comed-Movies-HD-300x173.jpg" group-title="MOVIE CHANNEL",OsN COMEDY +2
-http://185.27.237.105:8082/TV0021
-
-#EXTINF:-1 tvg-logo="http://www.msrawytop.com/wp-content/uploads/2014/10/421.jpg" group-title="MOVIE CHANNEL",OMN movie drama
-http://185.27.237.105:8082/TV0022
- 
-#EXTINF:-1 tvg-logo="http://www.msrawytop.com/wp-content/uploads/2014/10/38.jpg" group-title="MOVIE CHANNEL" ,OSN movie hd
-http://185.27.237.105:8082/TV0023
-
-#EXTINF:-1 tvg-logo="http://www.msrawytop.com/wp-content/uploads/2014/10/38.jpg" group-title="MOVIE CHANNEL",OSN movie hd
-http://185.27.237.105:8082/TV0024
-
-#EXTINF:-1 tvg-logo="http://www.msrawytop.com/wp-content/uploads/2014/10/38.jpg" group-title="MOVIE CHANNEL",OSN movie hd
-http://185.27.237.105:8082/TV0025
-
-#EXTINF:-1 group-title="MOVIE CHANNEL",MGM http://185.27.237.105:8082/TV0050
-
-#EXTINF:-1 group-title="MOVIE CHANNEL",Star Movie HD http://185.27.237.105:8082/TV0051
-
-#EXTINF:-1 group-title="MOVIE CHANNEL",OSN yahalla chabab HD http://185.27.237.105:8082/TV0052
-
-#EXTINF:-1 group-title="MOVIE CHANNEL",omn movie http://185.27.237.105:8082/TV0053
-
-#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/500x300/OMA.jpg" group- title="MOVIE CHANNEL",oSn movie hd +2
-http://185.27.237.105:8082/TV0054
-
-#EXTINF:-1 group-title="SPORTS", Star SPORTS http://122.155.203.9:8081/get/star/playlist.m3u8
-
-#EXTINF:-1 tvg-
-logo="http://www.miskeen007.com/uploads/1/0/7/8/10783978/5668345_orig.jpg" group- title="SPORTS",ESPN2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="SPORTS", Fox SPORTS 1
-http://ukstream.myftp.org:1935/edge1/foxSPORTSs1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS", Fox SPORTS 2
-http://ukstream.myftp.org:1935/edge1/foxSPORTSs2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS",FOX Sports 640*360 http://187.247.255.139/Apple/FOXSPHD600.m3u8
-
-#EXTINF:-1 group-title="Cartoon Network",Cartoonito http://202.75.23.36/live/ch49/01.m3u8
-
-#EXTINF:-1 group-title="Cartoon Network",Cartoonito http://202.75.23.36/live/ch49/02.m3u8
-
-#EXTINF:-1 group-title="Cartoon Network",Cartoonito http://202.75.23.36/live/ch49/03.m3u8
-
-#EXTINF:-1, MTV LIVE http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
-
-#EXTINF:-1, TELEHIT http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
- 
-#EXTINF:-1, VH1 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
-
-#EXTINF:-1, MTV http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
-
-#EXTINF:-1, BANDAMAX http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
-
-#EXTINF:-1, A AND E http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="MOVIE CHANNEL", AXN HD http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
-
-#EXTINF:-1, COMEDY CENTRAL http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="MOVIE CHANNEL", FOX http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="NEWS", BBC http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
-
-#EXTINF:-1, E http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
-
-#EXTINF:-1, UNIVERSAL http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
-
-#EXTINF:-1, SYFY http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
-
-#EXTINF:-1, FX http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
-
-#EXTINF:-1, INF http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
-
-#EXTINF:-1, GOURMET http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
-
-#EXTINF:-1, GLITZ http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
-
-#EXTINF:-1, FOX LIFE http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
-
-#EXTINF:-1, DISTRITO COMEDIA http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
-
-#EXTINF:-1, TELENOVELAS http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
-
-#EXTINF:-1, DISCOVERY KIDS http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="Cartoon Network", CBEEBIES
- 
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="Cartoon Network", DISNEY JR http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
-
-#EXTINF:-1, NICK JR http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="Cartoon Network", DISNEY CHANNEL http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="Cartoon Network", NICK HD http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="Cartoon Network", NICK http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="Cartoon Network", CARTOON NETWORK http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="Cartoon Network", DISNEY XD http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
-
-#EXTINF:-1, BOOMERANG http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="Cartoon Network", TOONCAST http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
-
-#EXTINF:-1, TIIN http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
-
-#EXTINF:-1, DISCOVERY HD http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
-
-#EXTINF:-1, HISTORY http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
-
-#EXTINF:-1, NAT GEO WILD http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
-
-#EXTINF:-1, TLC HD http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
-
-#EXTINF:-1, DISCOVERY http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
-
-#EXTINF:-1, ANIMAL PLANET http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
-
-#EXTINF:-1, NAT GEO http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
-
-#EXTINF:-1, TURBO http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
-
-#EXTINF:-1, D SCI http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
- 
-#EXTINF:-1, D. CIVILIZATION http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
-
-#EXTINF:-1, TLC http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
-
-#EXTINF:-1, WOBI http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="MOVIE CHANNEL", FOX CINEMA http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-logo="http://www.logopub.net/data/thumbnails/7/FOX%20FAMILY
-%20CHANNEL.png" group-title="MOVIE CHANNEL", FOX FAMILY http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="MOVIE CHANNEL", FOX CLASSICS http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
-
-#EXTINF:-1, CINECANAL http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
-
-#EXTINF:-1, TNT http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
-
-#EXTINF:-1, GOLDEN EDGE http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
-
-#EXTINF:-1, AMC http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
-
-#EXTINF:-1 group-title="MOVIE CHANNEL", STUDIO UNIVERSAL http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
-
-#EXTINF:-1, TCM http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
-
-#EXTINF:0,DISCOVERY EUROPE http://93.184.221.133/00573D/1347/1347-0.m3u8
-
-#EXTINF:0,DISCOVERY HISTORY http://93.184.221.133/00573D/1348/1348-0.m3u8
-
-#EXTINF:-1 group-title="TV channels-USA",Discovery world hd http://202.75.23.34:1400/live/ch30/03.m3u8
-
-#EXTINF:-1 group-title="TV channels-USA",Cartoon ch 3 usa http://62.210.76.216:8080/hls/archerxhd.m3u8
-
-#EXTINF:-1 group-title="TV channels-USA",King of the hill hd http://62.210.76.216:8080/hls/kinghillhxd.m3u8
-
-#EXTINF:-1 group-title="TV channels-USA",Clev x cartoon http://62.210.76.216:8080/hls/clevx.m3u8
-
-#EXTINF:-1 group-title="TV channels-USA",Archerxhd http://62.210.76.216:8080/hls/archerxhd.m3u8
-
-#EXTINF:-1 group-title="TV channels-USA",cartman hd
- 
-http://62.210.76.216:8080/hls/cartmanhd.m3u8
-
-#EXTINF:0 group-title="TV channels-USA",NatGeo Wild http://202.75.23.35/live/ch39/01.m3u8
-
-#EXTINF:0 group-title="TV channels-USA",Discovery Channel http://202.75.23.34:1400/live/ch29/02.m3u8
-
-#EXTINF:0 group-title="TV channels-USA",Discovery Channel http://202.75.23.34/live/ch29/01.m3u8
-
-#EXTINF:0 group-title="TV channels-USA",Discovery Science http://202.75.23.34:1400/live/ch33/03.m3u8
-
-#EXTINF:0 group-title="TV channels-USA",Discovery World http://202.75.23.34:1400/live/ch30/03.m3u8
-
-source: http://1rakyat.blogspot.my/2015/04/astro-iptv-channel- list.html#ixzz3ydFHCLuz
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="720" tvg-name="HELLO HD" group-title="ASTRO" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+
+#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+
+#EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="ASTRO",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-name="HBO FAMILY" group-title="ASTRO",HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="ASTRO",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="ASTRO",HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml" tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml" refresh="3600"
+
+--------------------------TV1---------------------------
+#EXTINF:-1 tvg-id="TV1 HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+--------------------------------------------------------
+
+--------------------------TV2---------------------------
+#EXTINF:-1 tvg-id="TV2" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+--------------------------------------------------------
+
+--------------------------TV3---------------------------
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+https://mediahomes.github.io/assets/my/ch_tv3.m3u8|Referer=https://www.dailymotion.com
+--------------------------------------------------------
+
+--------------------------TV6---------------------------
+#EXTINF:-1 tvg-id="TV6" group-title="Malaysia" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+--------------------------------------------------------
+
+--------------------------NTV7--------------------------
+#EXTINF:-1 tvg-id="NTV7" group-title="Malaysia" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+https://mediahomes.github.io/assets/my/ch_ntv7.m3u8|Referer=https://www.dailymotion.com
+--------------------------------------------------------
+
+--------------------------8TV---------------------------
+#EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+https://mediahomes.github.io/assets/my/ch_8tv.m3u8|Referer=https://www.dailymotion.com
+--------------------------------------------------------
+
+--------------------------TV9---------------------------
+#EXTINF:-1 tvg-id="TV9" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
+https://mediahomes.github.io/assets/my/ch_tv9.m3u8|Referer=https://www.dailymotion.com
+--------------------------------------------------------
+
+-----------------------DRAMA SANGAT---------------------
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
+--------------------------------------------------------
+
+-----------------------TV OKEY--------------------------
+#EXTINF:-1 tvg-id="TV Okey" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+--------------------------------------------------------
+
+----------------------AL-HIJRAH-------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="Al-Hijrah" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",114 TV Alhijrah
+http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
+--------------------------------------------------------
+
+--------------------ASTRO RIA---------------------------
+#EXTINF:-1 tvg-id="Astro Ria HD" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+--------------------------------------------------------
+
+-------------------ASTRO PRIMA--------------------------
+#EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="ASTRO PRIMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="Malaysia",ASTRO PRIMA HD
+#https://nonton.site:8443/6894864475/7163819284/37333
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+----------------------------------------------------------
+
+------------------ASTRO WARNA----------------------------
+#EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="Malaysia",ASTRO WARNA HD
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+-----------------------------------------------------------
+
+-----------------BOO---------------------------------------
+#EXTINF:-1 tvg-id="BOO HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Malaysia",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+------------------------------------------------------------
+
+------------------NAURA-------------------------------------
+#EXTINF:-1 tvg-id="Naura HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+------------------------------------------------------------
+
+-----------------HELLO--------------------------------------
+#EXTINF:-1 tvg-id="Hello HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+-------------------------------------------------------------
+
+--------------------TVS---------------------------------------
+#EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+---------------------------------------------------------------
+
+-------------------BERNAMA--------------------------------------
+#EXTINF:-1 tvg-id="BERNAMA" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA 
+https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
+-----------------------------------------------------------------
+
+-------------------BERITA RTM------------------------------------
+#EXTINF:-1 tvg-id="BERITA RTM" group-title="News" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+------------------------------------------------------------------
+
+-------------------RTM SPORTS------------------------------------
+#EXTINF:-1 tvg-id="TV SUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",RTM Sports HD
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+------------------------------------------------------------------
+
+-------------------ASTRO CITRA------------------------------------
+#EXTINF:-1 tvg-id="Astro Citra HD" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MOVIES",ASTRO CITRA HD
+#http://iptvtree.net:8080/Line1051/f4fffd47/157569?play_token=2CRjfTjUfg
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+------------------------------------------------------------------
+
+-------------------DUNIA CINEMA------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+------------------------------------------------------------------
+
+-------------------WARNER TV------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="International Variety" tvg-id="Warner TV HD" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",451 Warner TV HD
+http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
+------------------------------------------------------------------
+
+-------------------Blue Ant Entertainment------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="International Variety" tvg-id="Blue Ant Entertainment HD" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",473 Blue Ant Entertainment
+http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
+------------------------------------------------------------------
+
+-------------------Blue Ant Extreme------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="International Variety" tvg-id="Blue Ant Extreme HD" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme
+http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
+------------------------------------------------------------------
+
+-------------------AND FLIX------------------------------------
+#EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+------------------------------------------------------------------
+
+-------------------AND PRIVE------------------------------------
+#EXTINF:-1 tvg-id="And Prive HD" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+------------------------------------------------------------------
+
+-------------------SONY MAX------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="Movies" tvg-id="SONY MAX" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png",331 Sony Max
+http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
+------------------------------------------------------------------
+
+-------------------FOX MOVIES------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="Movies" tvg-id="FOX Movies HD" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",401 FOX Movies HD
+http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
+------------------------------------------------------------------
+
+-------------------FOX Life------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="International Variety" tvg-id="FOXlife HD" tvg-chno="455" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",455 FOX Life
+http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
+------------------------------------------------------------------
+
+-------------------HBO------------------------------------
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO" group-title="MOVIES",HBO
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764dad045c59a90d7587d8d671b5f5aec4e7c
+#https://nonton.site:8443/novi/novi123/1496
+#https://nonton.site:8443/novi/novi123/210
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+------------------------------------------------------------------
+
+-------------------HITS MOVIES------------------------------------
+#EXTINF:-1 tvg-id="HITS Movies HD" group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",HITS MOVIES
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+------------------------------------------------------------------
+
+-------------------HBO HITS------------------------------------
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
+#https://nonton.site:8443/novi/novi123/11492
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+------------------------------------------------------------------
+
+-------------------CINEMAX------------------------------------
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
+------------------------------------------------------------------
+
+-------------------TVN MOVIES------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="Movies" tvg-id="tvN Movies HD" tvg-chno="201" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",201 tvN Movies HD
+http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
+------------------------------------------------------------------
+
+-------------------TVN------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="International Variety" tvg-id="tvN HD" tvg-chno="211" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",211 TVN HD
+http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
+------------------------------------------------------------------
+
+-------------------KBS WORLD------------------------------------
+#EXTINF:-1 tvg-id="KBS World HD" group-title="International Variety" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",KBS World HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
+------------------------------------------------------------------
+
+-------------------ZEE CINEMA------------------------------------
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="MOVIES",ZEE CINEMA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+------------------------------------------------------------------
+
+-------------------ZEE CAFE------------------------------------
+#EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="MOVIES",Zee Cafe HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+------------------------------------------------------------------
+
+-------------------Star Movies Select HD------------------------------------
+#EXTINF:-1 tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
+https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799681
+------------------------------------------------------------------
+
+-------------------Star Movies HD------------------------------------
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="MOVIES",Star Movies HD
+https://bit.ly/2PLvTjX
+------------------------------------------------------------------
+
+-------------------SONY PIX------------------------------------
+#EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
+#http://185.71.64.167:80/307245103371/307245103371/83703?checkedby:hlscat.com
+#http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17287.m3u8?checkedby:hlscat.com
+#http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48142&output=m3u8
+#http://185.246.210.51:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
+#http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=7536907
+https://bit.ly/3waet0B
+------------------------------------------------------------------
+
+-------------------Colors Infinity HD------------------------------------
+#EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
+http://4kiptv.vip:25461/027265666923/x4lTlYt3ok/93649
+-------------------------------------------------------------
+
+-------------------MN+ HD------------------------------------
+#EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="MOVIES",MN+ HD
+https://bit.ly/3dloqj3
+-------------------------------------------------------------
+
+-------------------Movies Now HD------------------------------------
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
+https://bit.ly/3m7eYnn
+-------------------------------------------------------------
+
+-------------------Romedy Now HD------------------------------------
+#EXTINF:-1 tvg-id="Romedy Now HD" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
+https://bit.ly/3dSDwgh
+-------------------------------------------------------------
+
+-------------------MNX HD------------------------------------
+#EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
+https://bit.ly/3rCPyPV
+-------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HINDI MOVIES", Hindi Cinema 01
+http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HINDI MOVIES", Hindi Cinema 02
+http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
+
+-------------------CINEMAX EAST------------------------------------
+#EXTINF:-1 tvg-id="DTV:MAXe:515 Cinemax" tvg-name="Cinemax (East)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (East) (1080p)
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20906
+------------------------------------------------------------------
+
+-------------------CINEMAX WEST------------------------------------
+#EXTINF:-1 tvg-id="DTV:MAXw:516 Cinemax West" tvg-name="Cinemax (West)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (West) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+------------------------------------------------------------------
+
+-------------------EPIX EAST------------------------------------
+#EXTINF:-1 tvg-id="Epix East" tvg-name="Epix (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix (East) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+------------------------------------------------------------------
+
+-------------------EPIX 2 EAST------------------------------------
+#EXTINF:-1 tvg-id="EPIX2HD EPIX 2 HD" tvg-name="Epix 2 (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix 2 (East) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+------------------------------------------------------------------
